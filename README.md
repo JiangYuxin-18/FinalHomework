@@ -12,8 +12,7 @@
 - 命中规则：AI头顶有血条，当玩家攻击AI头部时-100hp，当攻击其他身体部位时-20hp；hp<=0时AI倒地
 - 怪物相关：AI一开始在地图上随机运动，当玩家出现在他们的视觉范围内时开始走向玩家
   
-- 视频演示链接：链接：https://pan.baidu.com/s/1JpC_dIouFmHFIIvremgwdQ?pwd=0903 
-提取码：0903 
+- 视频演示链接：链接:https://pan.baidu.com/s/1P2YLt49FmopaQa1Yq-AFvg?pwd=snp4  提取码:snp4
 
 - 代码链接：链接：https://pan.baidu.com/s/1I1kUhz-oOtZnshHE7No8eg?pwd=0903 
 提取码：0903 
